@@ -53,6 +53,11 @@ If you don't see a newly created notification class, try running `composer dump-
 
 Since you notifications often depend on parameters, this package tries to help you with that. All found constructor parameters will be shown when you try to send a notification. If one of the dependencies is an Eloquent Model, you will get a list with all of the items to choose from.
 
+## Credits
+
+- [tectiv3](https://github.com/tectiv3)
+- [christophrumpel](https://github.com/christophrumpel/nova-notifications/)
+
 ## License
 
 The MIT License (MIT).
